@@ -3,7 +3,7 @@ description: "beautiful music player page lego"
 #publish_to: 'none'
 repository: https://github.com/flutter-lego/music_player_page_lego
 
-version: 1.0.0
+version: 1.0.1
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
