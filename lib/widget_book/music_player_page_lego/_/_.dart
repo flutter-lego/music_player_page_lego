@@ -96,7 +96,7 @@ class _NewViewState extends State<NewView> {
                     height: 300,
                     width: 300,
                     child: Image.asset(
-                      'assets/view/music_player_page/music_disk.webp',
+                      'assets/lego/music_player_page_lego/music_disk.webp',
                       fit: BoxFit.cover,
                     ),
                   ),
